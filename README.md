@@ -36,4 +36,7 @@ To get started quickly, you can also run:
 make all
 ```
 
-This will initialize the project from scratch and start the service. Do not use this if you have already initialized the project. 
+This will initialize the project from scratch and start the service. 
+
+> [!WARNING]
+> Do not use this if you have already initialized the project. 
