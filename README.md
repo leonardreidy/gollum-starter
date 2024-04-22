@@ -11,19 +11,19 @@ To get up and running execute the following steps:
 git clone git@github.com:leonardreidy/gollum-starter.git
 ```
 
-2. Run the convenience script to initialize:
+2. To initialize:
 
 ```sh
 make init
 ```
 
-3. Run the convenience script to start:
+3. To start:
 
 ```sh
 make start
 ```
 
-4. Run the convenience script to stop (when you're done):
+4. To stop (when you're done):
 
 ```sh
 make stop
